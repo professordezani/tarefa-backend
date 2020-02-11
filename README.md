@@ -1,7 +1,5 @@
-# Projeto didático
-Disciplina Linguagem de Programação III 
-Fatec Rio Preto
-Prof. Dr. Henrique Dezani
+# Projeto Didático
+Disciplina Linguagem de Programação III | Fatec Rio Preto |  Prof. Dr. Henrique Dezani
 
 ## tarefa-backend
 Exemplo didático utilizado em sala de aula.
