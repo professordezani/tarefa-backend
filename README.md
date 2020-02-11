@@ -1,8 +1,6 @@
 # Projeto didático
 Disciplina Linguagem de Programação III 
-
 Fatec Rio Preto
-
 Prof. Dr. Henrique Dezani
 
 ## tarefa-backend
@@ -15,11 +13,13 @@ Exemplo didático utilizado em sala de aula.
 1. Fazer login no GitHub
 
 2. Acessar o repositório:
+
 https://github.com/professordezani/tarefa-backend
 
 3. Fazer um fork do repositório no GitHub.
 
 4. Acessar o seu respositório pelo GitPod:
+
 https://gitpod.io/#https://github.com/SEU_USUÁRIO_GITHUB/tarefa-backend
 
 ### Criar o projeto
